@@ -1,0 +1,29 @@
+#name{
+	font-family: 'Shrikhand', cursive;
+	color: rgb(234, 224, 167);
+	text-shadow: 2px 2px #FF0000;
+	text-align: center;
+
+}
+
+.jumbotron{
+	background-color: #ce1414;
+	box-shadow: 2px 2px 4px #3a3a3a;
+}
+
+body{
+	background-image: url(../images/fondo.png);
+}
+#game{
+	background-color: white;
+	margin: 8% 40% 0 40%;
+	border-radius: 25px;
+	padding:2%;
+}
+
+#subtitle{
+	text-align: center;
+	font-family: 'Josefin Slab', serif;
+	font-weight: bolder;
+	font-size: 2em;
+}
